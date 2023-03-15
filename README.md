@@ -6,3 +6,5 @@ Metrics available:
 - METEOR evaluation
 - ROUGE evaluation
 - SPICE evaluation
+
+NOTE: Although it most likely works, it has not been tested on > 1 epochs due to time and device constraints. 
